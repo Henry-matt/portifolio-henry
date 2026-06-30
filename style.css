@@ -1,0 +1,28 @@
+body {
+font-family: Arial;
+margin: 0;
+}
+
+nav {
+background: #333;
+padding: 10px;
+position: fixed;
+width: 100%;
+}
+
+nav ul {
+list-style: none;
+display: flex;
+justify-content: space-around;
+}
+
+nav a {
+color: white;
+text-decoration: none;
+}
+
+section {
+padding: 80px 20px;
+min-height: 100vh;
+}
+
